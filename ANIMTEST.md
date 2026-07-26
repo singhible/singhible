@@ -13,3 +13,7 @@ SMIL attribute animation (starts at opacity 0):
 CSS keyframes in `<style>` (starts at opacity 0):
 
 <img src="anim/test-css.svg" width="600" />
+
+Candidate name header (visible at frame zero, animates on top):
+
+<img src="anim/name.svg" width="600" />
