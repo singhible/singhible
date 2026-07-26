@@ -1,6 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient" />
 
-<h1 align="center">Baban</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/singhible/singhible/main/anim/name.svg" width="600" alt="Baban" />
+</p>
+
 <p align="center">Software engineer</p>
 
 ---
