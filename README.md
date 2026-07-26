@@ -1,4 +1,5 @@
-<h1 align="center">Baban</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Baban&fontAlign=50&fontAlignY=40&color=gradient" />
+
 <p align="center">Software engineer</p>
 
 ---
